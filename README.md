@@ -2,9 +2,9 @@
 
 SPA criada para cadastro de alunos, inserindo nome, email, cpf (único) e curso.
 
-## Getting Started
+## Começando
 
-Primeiro, instale as bibliotecas:
+Após baixar ou clonar o código, instale as bibliotecas:
 ```bash
 npm i
 ```
